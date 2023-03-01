@@ -6,10 +6,6 @@ $font-color: #FDFDFB;
 
 
 html {
-  font-size: $font-size;
-  color: $font-color;
-  font-family: 'Roboto Regular';
-  // max-width: 1366px;
   margin: 0 auto;
 }
 
@@ -19,12 +15,7 @@ body {
 }
 
 .container  {
-  // max-width: 1366px;
   margin: 0 auto;
-  font-family: "Roboto", sans-serif;
-  font-weight: 400;
-  font-size: 14px;
-  color: #000000;
 }
 
 .visually-hidden {
