@@ -1,0 +1,40 @@
+@font-face { 
+    font-family: "Playfair Display Regular";
+    src: local("Playfair Display Regular"),
+    local("PlayfairDisplay Regular"),
+        url('/src/fonts/Playfair-display-Regular.woff2') format('woff2'), 
+		url('/src/fonts/Playfair-display-Regular.woff') format('woff'); 
+    font-style: italic;    
+}
+
+
+
+@font-face {
+	font-family: "Roboto Regular";
+    src: local("Roboto Regular"),
+    local("Roboto Regular"),
+		url('/src/fonts/roboto_regular.woff2') format('woff2'), 
+		url('/src/fonts/roboto_regular.woff') format('woff');
+    font-style: normal;
+}
+
+
+@font-face {
+	font-family: "Roboto Bold";
+    src: local("Roboto Bold"),
+    local("Roboto Bold"),
+		url('/src/fonts/roboto_bold.woff2') format('woff2'), 
+		url('/src/fonts/roboto_bold.woff') format('woff'); 
+    font-style: bold;
+}
+
+@font-face {
+	font-family: "Prata Regular";
+    src: local("Prata Regular"),
+    local("Prata Regular"),
+		url('/src/fonts/prata_regular.woff2') format('woff2'),
+		url('/src/fonts/prata_regular.woff') format('woff'); 
+}
+
+
+
